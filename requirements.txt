@@ -1,6 +1,6 @@
 setuptools
 urllib3
-PyQt
+PyQt5
 PyQtWebEngine
 colorama
 psutil
